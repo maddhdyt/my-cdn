@@ -4,6 +4,7 @@ body {
   background: url("https://ik.imagekit.io/arkapublisher/jurnal/image%2049%20(1).png?updatedAt=1698052665850");
   background-size: 20%;
   background-repeat: repeat;
+  background-attachment: fixed;
   min-height: 100vh !important;
 }
 
